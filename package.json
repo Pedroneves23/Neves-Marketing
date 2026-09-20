@@ -1,0 +1,25 @@
+{
+  "name": "neves-marketing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --host=127.0.0.1 --port=5500",
+    "dev": "live-server --host=127.0.0.1 --port=5500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedrosantosv23/Neves-Marketing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pedrosantosv23/Neves-Marketing/issues"
+  },
+  "homepage": "https://github.com/Pedrosantosv23/Neves-Marketing#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
